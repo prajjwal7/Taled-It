@@ -1,0 +1,38 @@
+body{
+  margin:auto;
+  overflow-x: hidden;
+}
+.navbar{
+  color:black;
+}
+.search{
+  margin-right:5px;
+  margin-left: 50px;
+  flex:1;
+}
+.aud{
+  
+  height:auto;
+  margin-top:5vh;
+  background:rgb(21,255,80);
+  padding:3%;
+  border-radius:15px;
+}
+.aud p{
+  margin-top:2%;
+}
+.add{
+  margin-top:10vh;
+  background:rgb(21,255,80);
+  padding:3%;
+  border:solid 1px white;
+  border-radius:15px;
+}more
+.more{
+    border:solid 1px white;
+    background:rgba(100,100,100,0.5);
+}
+@media screen and (max-height: 450px){
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}

@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(21,255,80);
+  overflow-x:hidden;
+  box-sizing: border-box;
+}
+.logo{
+  text-align: center;
+  margin-top:3%;
+  margin-left: 26%;
+}
+.sign{
+  border:solid 1px white;
+  border-radius:20px;
+  width:25%;
+  background:rgba(255,255,255,0.4);
+  margin-left:35%;
+  margin-top:8%;
+  padding:1%;
+}
+.signup{
+  display:none;
+}
